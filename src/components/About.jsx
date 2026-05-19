@@ -33,7 +33,7 @@ export default function About(){
           
           <motion.div initial={{x:50, opacity:0}} whileInView={{x:0, opacity:1}} transition={{duration:0.6}} viewport={{once:true}} className="flex justify-center">
             <div className="relative w-64 h-64 rounded-2xl overflow-hidden border-2 border-cyan-400/50 shadow-2xl shadow-cyan-400/20">
-              <img src="/images/ChatGPT Image May 16, 2026, 03_58_48 AM.png" alt="Blessing Akanni" className="w-full h-full object-cover" />
+              <img src="/ChatGPT Image May 8, 2026, 03_53_16 PM.png" alt="Blessing Akanni" className="w-full h-full object-cover" />
               <div className="absolute inset-0 bg-gradient-to-t from-cyan-900/40 to-transparent" />
             </div>
           </motion.div>
